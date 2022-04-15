@@ -1,0 +1,5 @@
+ipython==8.2.0
+ipywidgets==7.6.5
+matplotlib==3.3.2
+numpy==1.19.2
+session_info==1.0.0
